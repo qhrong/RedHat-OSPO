@@ -1,7 +1,7 @@
 # RedHat-OSPO
 This repository is created for my internship project in Red Hat AICoE collaborated with OSPO.     
 
-![Alt Text](https://images.app.goo.gl/2E2Nd8dzyGaMhozJ7)
+![Alt Text](https://msdnshared.blob.core.windows.net/media/2016/04/shadowman.png)
 
 # Project Title
 
