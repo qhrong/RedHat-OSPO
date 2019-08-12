@@ -1,5 +1,7 @@
 # RedHat-OSPO
-This repository is created for my internship project in Red Hat AICoE collaborated with OSPO. 
+This repository is created for my internship project in Red Hat AICoE collaborated with OSPO.     
+
+![Alt Text](https://www.google.com/search?biw=2133&bih=1055&tbm=isch&sa=1&ei=7PhRXaDiLJDL_Qbl04voDg&q=red+hat&oq=red+hat&gs_l=img.3..0i67l2j0l8.7853.8590..8768...0.0..1.293.706.6j0j1......0....1..gws-wiz-img.osrEy9_Wwn8&ved=0ahUKEwigiKnkwP7jAhWQZd8KHeXpAu0Q4dUDCAY&uact=5#imgrc=n3BWC4d7HrZRtM:)
 
 # Project Title
 
