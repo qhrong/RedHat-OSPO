@@ -37,13 +37,13 @@ Based on those previous steps of exploratory analysis, I’ve created or added s
 
 ## :five:Modeling 
 
-### "Naive" Classification    
+### :fast_forward:"Naive" Classification    
 As for modeling, this problem is defined to be a classification problem. With experiments with SVM and Neural Network with sigmoid function, I prove that simple classification structure doesn’t work.     
 
-### Generative Adversarial Networks    
+### :fast_forward:Generative Adversarial Networks    
 This method works perfectly in our project setting. Firstly, the current dataset only has one side of data labeled, which is the Red Hat employee side. This will solve imbalanced problem and will not require more data on Volunteer side. Secondly, the goal of model is to output the probability of each committer being a Red Hat employee, and GAN’s output is probabilities.     
 
-### Pseudo-Labeling     
+### :fast_forward:Pseudo-Labeling     
 When more data labeled as volunteer is gathered. Pseudo-Labeling can be another scope of analysis besides GAN, and can be used to compare with GAN’s results. Pseudo-Labeling is one of the most efficient and famous methods in semi-supervised learning. 
 
 ## :six:Acknowledgement    
