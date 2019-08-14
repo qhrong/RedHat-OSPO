@@ -1,7 +1,7 @@
 # :tophat:RedHat-OSPO:tophat:
 This repository is created for my internship project in Red Hat AICoE collaborated with OSPO. For a detailed report, please check *OSPO-report.pdf*.      
 
-![Alt Text](https://msdnshared.blob.core.windows.net/media/2016/04/shadowman.png)
+![Alt Text](https://media.cdn.gradconnection.com/Red_Hat_-_Banner.png)
 
 # OSPO Diversity: Open-source Projects Contributors Affiliation    
 
