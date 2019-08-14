@@ -59,4 +59,4 @@ Tutorials on GAN: https://github.com/rionaldichandraseta/gan-on-structured-data/
 Tutorial on TensorBoard: https://www.tensorflow.org/guide/summaries_and_tensorboard    
 Tutorials on Pseudo-Labeling: https://datawhatnow.com/pseudo-labeling-semi-supervised-learning/
 
-![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTd0AsHs6B-m3xdcd1PdSi0IWFfrAmCbcYrw9ULyoClOU8Vs_l)
+
